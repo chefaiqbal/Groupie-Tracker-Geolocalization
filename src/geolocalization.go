@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 )
-const googleAPIURL = "https://maps.googleapis.com/maps/api/geocode/json?key=AIzaSyBIUyTXAXoZD-JVreyfTQ37q-N4nmIe9LA&address="
+const googleAPIURL = "https://maps.googleapis.com/maps/api/geocode/json?key=removed&address="
 
 // GoogleAPIResponse is google api JSON struct
 type GoogleAPIResponse struct {
